@@ -1,7 +1,5 @@
 ############################################################
 # Simple but Cute and Helpful (TM) Bash Settings
-#
-# cat feedback >> "kirtika.ruchandani@gmail.com"
 ############################################################
 
 #!/usr/bin/env bash
@@ -11,8 +9,8 @@
 
 # User Info
 
-export USERNAME="Kirtika Ruchandani"
-export NICKNAME="rkirti"
+export USERNAME="Charlize de Beer"
+export NICKNAME="char"
 
 # Distribute bashrc into smaller, more specific files
 
